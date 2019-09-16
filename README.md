@@ -11,7 +11,7 @@
 	</head>
 	<body>
 		<h1><center>欢迎来到yyy团队总部</center></h1>
-		<div class="red">有些事在洛谷分部上面不方便说,还得总部上说,麻烦大家看一下。</div>
+		<div class="red">有些事在洛谷分部上面不方便说,还得在总部上说,麻烦大家看一下。</div>
 		<div>积分制度:<button title="hello"><a href="https://zhouningyuan1234.github.io/zhidu/">前往</a></button></div>
 		<div>积分系统:<button title="hello"><a href="https://zhouningyuan1234.github.io/xitong/">前往</a></button></div>
 	</body>
