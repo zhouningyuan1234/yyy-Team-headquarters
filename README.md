@@ -16,6 +16,7 @@
 		<div>积分系统:<button title="hello"><a href="https://zhouningyuan1234.github.io/xitong/">前往</a></button></div>
 		<div>洛谷里的第一层团队:<button title="hello"><a href="https://www.luogu.org/team/show?teamid=18368">前往</a></button></div>
 		<div>洛谷里的第二层团队:<button title="hello"><a href="https://www.luogu.org/team/show?teamid=18753">前往</a></button></div>
+		<div>团队工作:<button title="hello"><a href="https://zhouningyuan1234.github.io/tuanduigongzuo/">前往</a></button></div>
 		<div>新人说明:<button title="hello"><a href="https://zhouningyuan1234.github.io/xinrenshuoming/
 ">前往</a></button></div>
 	</body>
