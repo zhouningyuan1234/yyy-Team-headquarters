@@ -20,7 +20,7 @@
 		<div>洛谷里的第一层团队:<button title="hello"><a href="https://www.luogu.org/team/show?teamid=18368"><span class="purple">前往</span></a></button></div>
 		<div>洛谷里的第二层团队:<button title="hello"><a href="https://www.luogu.org/team/show?teamid=18753"><span class="purple">前往</span></a></button></div>
 		<div>团队工作:<button title="hello"><a href="https://zhouningyuan1234.github.io/tuanduigongzuo/"><span class="purple">前往</span></a></button></div>
-		<div>新人说明:<button title="hello"><a href="https://zhouningyuan1234.github.io/xinrenshuoming/
+		<div>新人说明:<button title="hello"><a href="https://zhouningyuan1234.github.io/yyy-New-explanation/
 "><span class="purple">前往</span></a></button></div>
 		<div>团主qq号:<button title="hello"><a href="https://zhouningyuan1234.github.io/yyy-qq/
 "><span class="purple">前往</span></a></button></div>
