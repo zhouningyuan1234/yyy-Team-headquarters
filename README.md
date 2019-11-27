@@ -21,6 +21,7 @@
 		<div>团队工作:<button title="hello"><a href="https://zhouningyuan1234.github.io/yyy-Team-work/"><span class="purple">前往</span></a></button></div>
 		<div>新人说明:<button title="hello"><a href="https://zhouningyuan1234.github.io/yyy-New-explanation/
 "><span class="purple">前往</span></a></button></div>
+		<div>沙雕日报:<button title="hello"><a href="https://zhouningyuan1234.github.io/yyy-Sand-sculpture-daily/"><span class="purple">前往</span></a></button></div>
 		<div>团主qq号:<button title="hello"><a href="https://zhouningyuan1234.github.io/yyy-qq/
 "><span class="purple">前往</span></a></button></div>
 	</body>
